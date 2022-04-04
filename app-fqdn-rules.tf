@@ -7,6 +7,7 @@ locals {
       "*.ubuntu.com"   = "80"
       "computerbase.de = "443"
       "cnn.com"        = "80"
+      "*.cisco.com"    = "443"
     }
     udp = {
       "dns.google.com" = "53"
