@@ -10,7 +10,7 @@ locals {
       "*.cisco.com"     = "443"
     }
     udp = {
-      "dns.google.com"   = "53"
+      "dns.google.com"  = "53"
     }
   }
 }
